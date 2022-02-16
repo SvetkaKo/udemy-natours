@@ -1,0 +1,21 @@
+@import 'abstracts/functions';
+@import 'abstracts/mixins';
+@import 'abstracts/variables';
+
+@import 'base/animations';
+@import 'base/base';
+@import 'base/typografy';
+@import 'base/utilities';
+
+@import 'components/button';
+@import 'components/composition';
+@import 'components/feature-box';
+@import 'components/card';
+
+@import 'layout/header';
+@import 'layout/grids';
+
+@import 'pages/home';
+
+////
+// colores are imported from 'abstracts/variables';
