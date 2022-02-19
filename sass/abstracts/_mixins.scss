@@ -27,6 +27,7 @@ $breakpoint
       @content;
     } //600px
   }
+
   @if $breakpoint == tab-port {
     @media only screen and (max-width: 56.25em) {
       @content;
